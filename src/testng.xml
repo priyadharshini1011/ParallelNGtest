@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name  ="TestNG Demo" parallel = "tests" >
+   <test  name  ="TestA">
+ 	<classes>
+     <class name = "TestA" />
+	</classes>
+   </test>
+   <test  name  ="TestB">
+ 	<classes>
+     <class name = "Testb" />
+	</classes>
+   </test>
+   <test  name  ="TestC">
+ 	<classes>
+     <class name = "TestC" />
+	</classes>
+   </test>
+</suite> 
